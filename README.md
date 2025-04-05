@@ -11,6 +11,7 @@ bla bla bla
 more and more and more
 
 ## How to contribute
+just a simple change 
 
 ## Copyright
 git training
