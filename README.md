@@ -15,3 +15,4 @@ just a simple change
 
 ## Copyright
 git training
+All rights reserved
