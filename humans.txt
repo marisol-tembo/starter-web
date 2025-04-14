@@ -11,6 +11,7 @@ Saying thanks
     <name>
 
 # TECHNOLOGY COLOPHON
-
+	hello 
+	hi
     HTML5, CSS3
     jQuery, Modernizr
